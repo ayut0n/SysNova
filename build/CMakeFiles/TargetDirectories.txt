@@ -1,0 +1,3 @@
+C:/Users/artem/Documents/SysNova-main/build/CMakeFiles/SysNova.dir
+C:/Users/artem/Documents/SysNova-main/build/CMakeFiles/edit_cache.dir
+C:/Users/artem/Documents/SysNova-main/build/CMakeFiles/rebuild_cache.dir
